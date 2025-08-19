@@ -1,6 +1,6 @@
 Pruning on Deformable DETR
 
-Authors: Shashank Shashidhar, Rishab Bohra, Ebin Royce, Suhas Ungarala, Muhammed Shahbas V S
+Authors: Rishab Bohra, Shashank Shashidhar, Ebin Royce, Suhas Ungarala, Muhammed Shahbas V S
 
 
 Introduction
